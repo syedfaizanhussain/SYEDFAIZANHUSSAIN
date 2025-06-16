@@ -28,7 +28,7 @@ Currently building: **CAFEPREORDER** – a Python Flask-based food pre-order sys
 ### 📦 CAFEPREORDER
 
 A simple web app for college students to pre-order meals, built using Python, Flask, and JSON. Designed for hackathon learning and practical experience.
-**Repo:** [updationforpreorders](https://github.com/syedfaizanhussain/updationforpreorders)
+**Repo:** [CAFEPREORDER](https://github.com/syedfaizanhussain/CAFEPREORDER.git)
 
 ### 💰 Expense Tracker (Local Project)
 
